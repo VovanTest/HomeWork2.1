@@ -27,6 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-.idea
+.idea/
 out/
-.iml
+.iml/
